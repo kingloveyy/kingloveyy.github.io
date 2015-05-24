@@ -19,7 +19,7 @@ BASE_PATH : http://kingloveyy.github.io
 
 description : 物尽其用！人尽其才！两全其美！
 title : King的博客
-logo : /avatar.jpg
+logo : /avatar.png
 #cover : /assets/images/background-cover.jpg
 
 
@@ -31,4 +31,4 @@ author:
   github: kingloveyy
   twitter: kingloveyy
   bio: "我是King，互相学习，互相进步"
-  uno-dbyll: /avatar.jpg
+  uno-dbyll: /avatar.png
